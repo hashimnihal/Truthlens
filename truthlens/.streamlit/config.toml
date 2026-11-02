@@ -1,0 +1,17 @@
+# TruthLens — Streamlit theme
+# Colours from PRD §9.5
+
+[theme]
+primaryColor        = "#1F4E79"
+backgroundColor     = "#FFFFFF"
+secondaryBackgroundColor = "#F3F5F8"
+textColor           = "#1A1A2E"
+font                = "sans serif"
+
+[server]
+# Silence the file-watcher for the models/ directory (large .joblib file)
+folderWatchBlacklist = ["models", "data", "extension"]
+
+[browser]
+gatherUsageStats = false
+

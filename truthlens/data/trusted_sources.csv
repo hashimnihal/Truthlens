@@ -1,0 +1,56 @@
+domain,name,tier,notes
+reuters.com,Reuters,1,Major wire service
+apnews.com,AP News,1,Major wire service
+bbc.com,BBC,1,Major international broadcaster
+bbc.co.uk,BBC,1,Major international broadcaster
+theguardian.com,The Guardian,1,Major newspaper
+nytimes.com,The New York Times,1,Major newspaper
+washingtonpost.com,The Washington Post,1,Major newspaper
+wsj.com,The Wall Street Journal,1,Major newspaper
+ft.com,Financial Times,1,Major newspaper
+bloomberg.com,Bloomberg,1,Major financial news
+economist.com,The Economist,1,Major magazine
+thehindu.com,The Hindu,1,Major Indian newspaper
+hindustantimes.com,Hindustan Times,1,Major Indian newspaper
+timesofindia.indiatimes.com,Times of India,1,Major Indian newspaper
+ndtv.com,NDTV,1,Major Indian broadcaster
+indiatoday.in,India Today,1,Major Indian news
+theprint.in,The Print,2,Known Indian outlet
+scroll.in,Scroll,2,Known Indian outlet
+thewire.in,The Wire,2,Known Indian outlet
+livemint.com,Mint,2,Known Indian business news
+businesstoday.in,Business Today,2,Known Indian business news
+economictimes.indiatimes.com,Economic Times,2,Known Indian business news
+cnn.com,CNN,1,Major US broadcaster
+foxnews.com,Fox News,2,Known US outlet
+nbcnews.com,NBC News,1,Major US broadcaster
+abcnews.go.com,ABC News,1,Major US broadcaster
+cbsnews.com,CBS News,1,Major US broadcaster
+usatoday.com,USA Today,2,Known US outlet
+newsweek.com,Newsweek,2,Known outlet
+time.com,Time,2,Known magazine
+aljazeera.com,Al Jazeera,2,Known international outlet
+dw.com,Deutsche Welle,2,Known international broadcaster
+france24.com,France 24,2,Known international broadcaster
+npr.org,NPR,1,US public broadcaster
+pbs.org,PBS,1,US public broadcaster
+politico.com,Politico,2,Known US political news
+theatlantic.com,The Atlantic,2,Known magazine
+vox.com,Vox,2,Known outlet
+axios.com,Axios,2,Known outlet
+techcrunch.com,TechCrunch,2,Known tech outlet
+wired.com,Wired,2,Known tech outlet
+arstechnica.com,Ars Technica,2,Known tech outlet
+theverge.com,The Verge,2,Known tech outlet
+nature.com,Nature,1,Major science journal
+science.org,Science,1,Major science journal
+who.int,World Health Organization,1,International health authority
+cdc.gov,CDC,1,US health authority
+nih.gov,NIH,1,US health research
+snopes.com,Snopes,2,Fact-checking site
+factcheck.org,FactCheck.org,2,Fact-checking site
+politifact.com,PolitiFact,2,Fact-checking site
+fullfact.org,Full Fact,2,Fact-checking site
+boomlive.in,Boom Live,2,Indian fact-checking site
+altnews.in,AltNews,2,Indian fact-checking site
+
